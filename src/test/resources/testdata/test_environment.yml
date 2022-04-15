@@ -1,0 +1,7 @@
+environment_urls:
+  base_url: https://google.com
+
+existing_users:
+  normal_user:
+    user:
+    password:
